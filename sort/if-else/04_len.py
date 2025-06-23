@@ -1,5 +1,5 @@
 # len
-txt_1 = "nitipoom"
+txt_1 = "weerapol"
 # print(len(txt_1))
 pass_input = input("Enter Your password : ")  
 if len(pass_input)>=8:
